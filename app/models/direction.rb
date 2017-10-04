@@ -1,3 +1,3 @@
-class Direction < ActiveRecord::Base
-  belongs_to :recipe
+class Direction < ApplicationRecord
+  belongs_to :recipe, optional: true
 end
