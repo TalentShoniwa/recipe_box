@@ -1,4 +1,4 @@
-A web application that allows a user to create recipe which consists of an image of the finshed dish, the name of the dish and the steps to create the dish(recipe).Signed up users can create and delete recipes while non signed up users can only view recipes.
+A web application that allows a user to create recipe which consists of name of the recipe, an image of the finshed dish, Ingredients and Steps to creating the dish.Signed up users can create and delete recipes while non signed up users can only view recipes.
 
 . Ruby Version 2.4.0
 
