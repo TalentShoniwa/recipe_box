@@ -1,28 +1,15 @@
-== README
+A web application that allows a user to create recipe which consists of an image of the finshed dish, the name of the dish and the steps to create the dish(recipe).Signed up users can create and delete recipes while non signed up users can only view recipes.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+. Ruby Version 2.4.0
 
-Things you may want to cover:
+- Rails 5
 
-* Ruby version
+- run bundle install to install dependencies.
 
-* System dependencies
+- run rake db:migrate to execute the database schema
 
-* Configuration
+- PostgreSQL is used for production and Sqlite3 for development
 
-* Database creation
+A link to the live application hosted on Heroku:-
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+https://sheltered-garden-49795.herokuapp.com/
